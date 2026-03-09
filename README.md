@@ -35,7 +35,8 @@ Some key insights derived from the dashboard:
 - Compare department performance
 
 ## Dashboard Preview
-(Add screenshot of your dashboard here)
+- ![Dash 2](Dash 2.png)
+- ![Dash 2](Dash 2.png)
 
 ## Project Files
 - Healthcare.pbix → Power BI dashboard
@@ -49,14 +50,3 @@ Some key insights derived from the dashboard:
 
 ## Author
 Pragati Bankar
-
-Aspiring Data Analyst skilled in:
-- Power BI
-- Python
-- SQL
-- Excel
-- Machine Learning
-
-## Connect With Me
-LinkedIn: (add your LinkedIn link)  
-GitHub: (your GitHub profile link)
