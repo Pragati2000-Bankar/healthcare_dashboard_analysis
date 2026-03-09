@@ -35,8 +35,8 @@ Some key insights derived from the dashboard:
 - Compare department performance
 
 ## Dashboard Preview
-- ![Dash 2](Dash 2.png)
-- ![Dash 2](Dash 2.png)
+- Dash 1.png
+- Dash 2.png
 
 ## Project Files
 - Healthcare.pbix → Power BI dashboard
